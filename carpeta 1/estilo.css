@@ -1,0 +1,26 @@
+body{
+    background:blanchedalmond;
+}
+
+
+p{
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+    line-height: 20px;
+    text-decoration: none;
+    text-transform: none;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-shadow: 3px 3px 3px gray;
+}
+
+h1{
+    background: chocolate ;
+    text-align: center;
+
+}
+
